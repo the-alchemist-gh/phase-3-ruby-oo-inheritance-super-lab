@@ -1,3 +1,5 @@
+require_relative 'spec_helper.rb'
+
 describe ChattyStudent do
   let!(:chatty_student) { ChattyStudent.new }
   
